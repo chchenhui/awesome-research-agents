@@ -6,11 +6,11 @@ This is a collection of papers, blogs and projects about research agents powered
 
 ## Table of Contents
 
-- [📖 Papers](#papers)
+- 📖 [Papers](#papers)
   - [Research Engineering](#research-engineering)
   - [Idea Generation](#idea-generation)
   - [Scientific Discovery](#scientific-discovery)
-- [🔧 Projects](#projects)
+- 🔧 [Projects](#projects)
 
 ## 📖 Papers
 ```
