@@ -63,3 +63,4 @@ format:
 Open-Ended Scientific Discovery.
 - [MLE-Agent](https://github.com/MLSysOps/MLE-agent): Your intelligent companion for seamless AI engineering and research.
 - [Data-Agent](https://github.com/xlang-ai/OpenAgents/tree/main/real_agents/data_agent): a comprehensive toolkit designed for efficient data operations.
+- [Code-Agent](https://github.com/huggingface/smolagents): the LLM engine writes its actions in code.
