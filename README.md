@@ -59,5 +59,7 @@ format:
 
 ## 🔧 Projects
 - [gpt-researcher](https://github.com/assafelovic/gpt-researcher): an autonomous agent designed for comprehensive web and local research on any given task.
-- [AI-Scientist](https://github.com/SakanaAI/AI-Scientist): fully automated
-open-ended scientific discovery.
+- [AI-Scientist](https://github.com/SakanaAI/AI-Scientist): Fully Automated
+Open-Ended Scientific Discovery.
+- [MLE-Agent](https://github.com/MLSysOps/MLE-agent): Your intelligent companion for seamless AI engineering and research.
+- [Data-Agent](https://github.com/xlang-ai/OpenAgents/tree/main/real_agents/data_agent): a comprehensive toolkit designed for efficient data operations.
