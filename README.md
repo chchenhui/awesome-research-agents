@@ -15,7 +15,7 @@ This is a collection of papers, blogs and projects about research agents powered
 ## 📖 Papers
 ```
 format:
-- [time][title](paper link) [links]
+- [time] [title](paper link)
   - author1, author2, and author3...
   - publisher
   - code
