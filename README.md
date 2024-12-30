@@ -28,6 +28,9 @@ format:
 - [Oct 2023] [MLAgentBench: Evaluating Language Agents on Machine Learning Experimentation](https://arxiv.org/pdf/2310.03302)
   - Qian Huang, Jian Vora, Percy Liang, Jure Leskovec
   - https://github.com/snap-stanford/MLAgentBench
+- [Jul 2024] [OpenHands: An Open Platform for AI Software Developers as Generalist Agents](https://arxiv.org/pdf/2407.16741)
+  - Xingyao Wang, Boxuan Li, Yufan Song, Frank F. Xu, Xiangru Tang, Mingchen Zhuge, Jiayi Pan, Yueqi Song, Bowen Li, Jaskirat Singh, Hoang H. Tran, Fuqiang Li, Ren Ma, Mingzhang Zheng, Bill Qian, Yanjun Shao, Niklas Muennighoff, Yizhe Zhang, Binyuan Hui, Junyang Lin, Robert Brennan, Hao Peng, Heng Ji, Graham Neubig
+  - https://github.com/All-Hands-AI/OpenHands
 - [Sep 2024] [DSBench: How Far Are Data Science Agents to Become Data Science Experts?](https://arxiv.org/pdf/2409.07703)
   - Liqiang Jing, Zhehui Huang, Xiaoyang Wang, Wenlin Yao, Wenhao Yu, Kaixin Ma, Hongming Zhang, Xinya Du, Dong Yu
   - https://github.com/LiqiangJing/DSBench
@@ -64,3 +67,5 @@ Open-Ended Scientific Discovery.
 - [MLE-Agent](https://github.com/MLSysOps/MLE-agent): Your intelligent companion for seamless AI engineering and research.
 - [Data-Agent](https://github.com/xlang-ai/OpenAgents/tree/main/real_agents/data_agent): a comprehensive toolkit designed for efficient data operations.
 - [Code-Agent](https://github.com/huggingface/smolagents): the LLM engine writes its actions in code.
+- [AIDE](https://github.com/WecoAI/aideml): the Machine Learning Engineer Agent.
+- [OpenHands](https://github.com/All-Hands-AI/OpenHands): a platform for software development agents powered by AI.
