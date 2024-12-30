@@ -2,17 +2,19 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PR Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/chchenhui/awesome-research-agents/pulls)
 
-This is a collection of papers, blogs and projects about research agents powered by large language models (LLMs). This repository will be continuously updated to track the resources of LLM research agents.
+This is a collection of papers, blogs and projects about research agents powered by large language models (LLMs). Research can be regarded as a process of scientific discovery, and we break down the overall research process into several stages: (1) idea generation; (2) literature review; (3) research engineering; (4) paper writing; (5) research assessment. 
+
+This repository will be continuously updated to track the resources of LLM research agents.
 
 ## Table of Contents
 
 - [📖 Papers](#papers)
+  - [Scientific Discovery](#scientific-discovery)
   - [Idea Generation](#idea-generation)
   - [Literature Review](#literature-review)
   - [Research Engineering](#research-engineering)
   - [Paper Writing](#paper-writing)
   - [Research Assessment](#research-assessment)
-  - [Scientific Discovery](#scientific-discovery)
 - [🔧 Projects](#projects)
 
 ## 📖 Papers
@@ -24,6 +26,11 @@ format:
   - code
   - experimental environments and datasets
 ```
+### Scientific Discovery
+- [Aug 2024] [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://arxiv.org/pdf/2408.06292)
+  - Chris Lu, Cong Lu, Robert Tjarko Lange, Jakob Foerster, Jeff Clune, David Ha
+  - https://github.com/SakanaAI/AI-Scientist
+
 ### Idea Generation
 - [Apr 2024] [ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models](https://arxiv.org/pdf/2404.07738)
   - Jinheon Baek, Sujay Kumar Jauhar, Silviu Cucerzan, Sung Ju Hwang
@@ -63,11 +70,6 @@ format:
 ### Paper Writing
 
 ### Research Assessment
-
-### Scientific Discovery
-- [Aug 2024] [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://arxiv.org/pdf/2408.06292)
-  - Chris Lu, Cong Lu, Robert Tjarko Lange, Jakob Foerster, Jeff Clune, David Ha
-  - https://github.com/SakanaAI/AI-Scientist
 
 ## 🔧 Projects
 - [gpt-researcher](https://github.com/assafelovic/gpt-researcher): an autonomous agent designed for comprehensive web and local research on any given task.
