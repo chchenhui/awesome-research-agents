@@ -2,7 +2,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PR Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/chchenhui/awesome-research-agents/pulls)
 
-This is a collection of papers, blogs and projects about research agents powered by large language models (LLMs).
+This is a collection of papers, blogs and projects about research agents powered by large language models (LLMs). This repository will be continuously updated to track the resources of LLM research agents.
 
 ## Table of Contents
 
