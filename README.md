@@ -45,6 +45,10 @@ format:
   - https://github.com/cheerss/SciPIP
 
 ### Literature Review
+- [Jun 2024] [AutoSurvey: Large Language Models Can Automatically Write Surveys](https://arxiv.org/pdf/2406.10252v1)
+  - Yidong Wang, Qi Guo, Wenjin Yao, Hongbo Zhang, Xin Zhang, Zhen Wu, Meishan Zhang, Xinyu Dai, Min Zhang, Qingsong Wen, Wei Ye, Shikun Zhang, Yue Zhang
+- [Dec 2024] [LLMs for Literature Review: Are we there yet?](https://www.arxiv.org/pdf/2412.15249)
+  - Shubham Agarwal, Gaurav Sahu, Abhay Puri, Issam H. Laradji, Krishnamurthy DJ Dvijotham, Jason Stanley, Laurent Charlin, Christopher Pal
 
 ### Research Engineering
 - [Oct 2023] [SWE-bench: Can Language Models Resolve Real-World GitHub Issues?](https://arxiv.org/pdf/2310.06770)
@@ -68,8 +72,12 @@ format:
   - Hjalmar Wijk, Tao Lin, Joel Becker, Sami Jawhar, Neev Parikh, Thomas Broadley, Lawrence Chan, Michael Chen, Josh Clymer, Jai Dhyani, Elena Ericheva, Katharyn Garcia, Brian Goodrich, Nikola Jurkovic, Megan Kinniment, Aron Lajko, Seraphina Nix, Lucas Sato, William Saunders, Maksym Taran, Ben West, Elizabeth Barnes
 
 ### Paper Writing
+- [Jun 2024] [Let’s Get to the Point: LLM-Supported Planning, Drafting, and Revising of Research-Paper Blog Posts](https://arxiv.org/pdf/2406.10370v1)
+  - Marissa Radensky, Daniel S. Weld, Joseph Chee Chang, Pao Siangliulue, Jonathan Bragg
 
 ### Research Assessment
+- [May 2024] [Is LLM a Reliable Reviewer? A Comprehensive Evaluation of LLM on Automatic Paper Reviewing Tasks](https://aclanthology.org/2024.lrec-main.816.pdf)
+  - Ruiyang Zhou, Lu Chen, Kai Yu
 
 ## 🔧 Projects
 - [gpt-researcher](https://github.com/assafelovic/gpt-researcher): an autonomous agent designed for comprehensive web and local research on any given task.
