@@ -2,7 +2,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PR Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/chchenhui/awesome-research-agents/pulls)
 
-This is a collection of papers, blogs and projects about research agents powered by large language models (LLMs). Research can be regarded as a process of scientific discovery, and we break down the overall research process into several stages: (1) idea generation; (2) literature review; (3) research engineering; (4) paper writing; (5) research assessment. 
+This is a collection of papers, blogs and projects about research agents powered by large language models (LLMs).
 
 This repository will be continuously updated to track the resources of LLM research agents.
 
