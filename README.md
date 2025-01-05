@@ -57,6 +57,8 @@ format:
 - [Oct 2023] [MLAgentBench: Evaluating Language Agents on Machine Learning Experimentation](https://arxiv.org/pdf/2310.03302)
   - Qian Huang, Jian Vora, Percy Liang, Jure Leskovec
   - https://github.com/snap-stanford/MLAgentBench
+- [Feb 2024] [Benchmarking Data Science Agents](https://arxiv.org/pdf/2402.17168)
+  - Yuge Zhang, Qiyang Jiang, Xingyu Han, Nan Chen, Yuqing Yang, Kan Ren
 - [Jul 2024] [OpenHands: An Open Platform for AI Software Developers as Generalist Agents](https://arxiv.org/pdf/2407.16741)
   - Xingyao Wang, Boxuan Li, Yufan Song, Frank F. Xu, Xiangru Tang, Mingchen Zhuge, Jiayi Pan, Yueqi Song, Bowen Li, Jaskirat Singh, Hoang H. Tran, Fuqiang Li, Ren Ma, Mingzhang Zheng, Bill Qian, Yanjun Shao, Niklas Muennighoff, Yizhe Zhang, Binyuan Hui, Junyang Lin, Robert Brennan, Hao Peng, Heng Ji, Graham Neubig
   - https://github.com/All-Hands-AI/OpenHands
