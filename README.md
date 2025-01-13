@@ -90,3 +90,4 @@ Open-Ended Scientific Discovery.
 - [Code-Agent](https://github.com/huggingface/smolagents): the LLM engine writes its actions in code.
 - [AIDE](https://github.com/WecoAI/aideml): the Machine Learning Engineer Agent.
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands): a platform for software development agents powered by AI.
+- [VisionAgent](https://github.com/landing-ai/vision-agent): an agent framework which can generate code to solve your vision task.
