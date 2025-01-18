@@ -43,6 +43,8 @@ format:
 - [Oct 2024] [SciPIP: An LLM-based Scientific Paper Idea Proposer ](https://arxiv.org/pdf/2410.23166)
   - Wenxiao Wang, Lihui Gu, Liye Zhang, Yunxiang Luo, Yi Dai, Chen Shen, Liang Xie, Binbin Lin, Xiaofei He & Jieping Ye
   - https://github.com/cheerss/SciPIP
+- [Dec 2024] [Learning to Generate Research Idea with Dynamic Control](https://arxiv.org/pdf/2412.14626)
+  - Ruochen Li, Liqiang Jing, Chi Han, Jiawei Zhou, Xinya Du
 
 ### Literature Review
 - [Jun 2024] [AutoSurvey: Large Language Models Can Automatically Write Surveys](https://arxiv.org/pdf/2406.10252v1)
