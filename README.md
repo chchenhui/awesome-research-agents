@@ -62,6 +62,8 @@ format:
 - [Jul 2024] [OpenHands: An Open Platform for AI Software Developers as Generalist Agents](https://arxiv.org/pdf/2407.16741)
   - Xingyao Wang, Boxuan Li, Yufan Song, Frank F. Xu, Xiangru Tang, Mingchen Zhuge, Jiayi Pan, Yueqi Song, Bowen Li, Jaskirat Singh, Hoang H. Tran, Fuqiang Li, Ren Ma, Mingzhang Zheng, Bill Qian, Yanjun Shao, Niklas Muennighoff, Yizhe Zhang, Binyuan Hui, Junyang Lin, Robert Brennan, Hao Peng, Heng Ji, Graham Neubig
   - https://github.com/All-Hands-AI/OpenHands
+- [Jul 2024] [SciCode: A Research Coding Benchmark Curated by Scientists](https://arxiv.org/pdf/2407.13168)
+  - Minyang Tian, Luyu Gao, Shizhuo Dylan Zhang, Xinan Chen, Cunwei Fan, Xuefei Guo, Roland Haas, Pan Ji, Kittithat Krongchon, Yao Li, Shengyan Liu, Di Luo, Yutao Ma, Hao Tong, Kha Trinh, Chenyu Tian, Zihan Wang, Bohao Wu, Yanyu Xiong, Shengzhu Yin, Minhui Zhu, Kilian Lieret, Yanxin Lu, Genglin Liu, Yufeng Du, Tianhua Tao, Ofir Press, Jamie Callan, Eliu Huerta, Hao Peng
 - [Sep 2024] [DSBench: How Far Are Data Science Agents to Become Data Science Experts?](https://arxiv.org/pdf/2409.07703)
   - Liqiang Jing, Zhehui Huang, Xiaoyang Wang, Wenlin Yao, Wenhao Yu, Kaixin Ma, Hongming Zhang, Xinya Du, Dong Yu
   - https://github.com/LiqiangJing/DSBench
