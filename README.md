@@ -83,6 +83,8 @@ format:
 ### Paper Writing
 - [Jun 2024] [Let’s Get to the Point: LLM-Supported Planning, Drafting, and Revising of Research-Paper Blog Posts](https://arxiv.org/pdf/2406.10370v1)
   - Marissa Radensky, Daniel S. Weld, Joseph Chee Chang, Pao Siangliulue, Jonathan Bragg
+- [Jan 2025] [OmniThink: Expanding Knowledge Boundaries in Machine Writing through Thinking](https://arxiv.org/pdf/2501.09751)
+  - Zekun Xi, Wenbiao Yin, Jizhan Fang, Jialong Wu, Runnan Fang, Ningyu Zhang, Jiang Yong, Pengjun Xie, Fei Huang, Huajun Chen
 
 ### Research Assessment
 - [May 2024] [Is LLM a Reliable Reviewer? A Comprehensive Evaluation of LLM on Automatic Paper Reviewing Tasks](https://aclanthology.org/2024.lrec-main.816.pdf)
