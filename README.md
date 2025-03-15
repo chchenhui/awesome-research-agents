@@ -100,6 +100,7 @@ format:
 - [gpt-researcher](https://github.com/assafelovic/gpt-researcher): an autonomous agent designed for comprehensive web and local research on any given task.
 - [AI-Scientist](https://github.com/SakanaAI/AI-Scientist): Fully Automated
 Open-Ended Scientific Discovery.
+- [AI-Researcher](https://github.com/HKUDS/AI-Researcher): Fully-Automated Scientific Discovery with LLM Agents.
 - [MLE-Agent](https://github.com/MLSysOps/MLE-agent): Your intelligent companion for seamless AI engineering and research.
 - [Data-Agent](https://github.com/xlang-ai/OpenAgents/tree/main/real_agents/data_agent): a comprehensive toolkit designed for efficient data operations.
 - [smolagents](https://github.com/huggingface/smolagents): a library that enables you to run powerful agents in a few lines of code.
