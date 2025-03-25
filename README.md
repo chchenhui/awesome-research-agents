@@ -33,6 +33,8 @@ format:
 - [Jan 2025] [Agent Laboratory: Using LLM Agents as Research Assistants](https://arxiv.org/pdf/2501.04227)
   - Samuel Schmidgall, Yusheng Su, Ze Wang, Ximeng Sun, Jialian Wu, Xiaodong Yu, Jiang Liu, Zicheng Liu, Emad Barsoum
   - https://github.com/SamuelSchmidgall/AgentLaboratory
+- [Mar 2025] [AgentRxiv: Towards Collaborative Autonomous Research](https://arxiv.org/pdf/2503.18102)
+  - Samuel Schmidgall, Michael Moor
 
 ### Idea Generation
 - [Apr 2024] [ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models](https://arxiv.org/pdf/2404.07738)
