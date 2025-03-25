@@ -56,6 +56,8 @@ format:
   - Yidong Wang, Qi Guo, Wenjin Yao, Hongbo Zhang, Xin Zhang, Zhen Wu, Meishan Zhang, Xinyu Dai, Min Zhang, Qingsong Wen, Wei Ye, Shikun Zhang, Yue Zhang
 - [Dec 2024] [LLMs for Literature Review: Are we there yet?](https://www.arxiv.org/pdf/2412.15249)
   - Shubham Agarwal, Gaurav Sahu, Abhay Puri, Issam H. Laradji, Krishnamurthy DJ Dvijotham, Jason Stanley, Laurent Charlin, Christopher Pal
+- [Feb 2025] [SurveyX: Academic Survey Automation via Large Language Models](https://arxiv.org/pdf/2502.14776)
+  - Xun Liang, Jiawei Yang, Yezhaohui Wang, Chen Tang, Zifan Zheng, Shichao Song, Zehao Lin, Yebin Yang, Simin Niu, Hanyu Wang, Bo Tang, Feiyu Xiong, Keming Mao, Zhiyu li
 
 ### Research Engineering
 - [Oct 2023] [SWE-bench: Can Language Models Resolve Real-World GitHub Issues?](https://arxiv.org/pdf/2310.06770)
