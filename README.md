@@ -30,6 +30,9 @@ format:
 - [Aug 2024] [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://arxiv.org/pdf/2408.06292)
   - Chris Lu, Cong Lu, Robert Tjarko Lange, Jakob Foerster, Jeff Clune, David Ha
   - https://github.com/SakanaAI/AI-Scientist
+- [Nov 2024] [CycleResearcher: Improving Automated Research via Automated Review](https://arxiv.org/pdf/2411.00816)
+  - Yixuan Weng, Minjun Zhu, Guangsheng Bao, Hongbo Zhang, Jindong Wang, Yue Zhang, Linyi Yang
+  - https://github.com/zhu-minjun/Researcher
 - [Jan 2025] [Agent Laboratory: Using LLM Agents as Research Assistants](https://arxiv.org/pdf/2501.04227)
   - Samuel Schmidgall, Yusheng Su, Ze Wang, Ximeng Sun, Jialian Wu, Xiaodong Yu, Jiang Liu, Zicheng Liu, Emad Barsoum
   - https://github.com/SamuelSchmidgall/AgentLaboratory
