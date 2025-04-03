@@ -38,6 +38,9 @@ format:
   - https://github.com/SamuelSchmidgall/AgentLaboratory
 - [Mar 2025] [AgentRxiv: Towards Collaborative Autonomous Research](https://arxiv.org/pdf/2503.18102)
   - Samuel Schmidgall, Michael Moor
+- [April 2025] [PaperBench: Evaluating AI’s Ability to Replicate AI Research](https://cdn.openai.com/papers/22265bac-3191-44e5-b057-7aaacd8e90cd/paperbench.pdf)
+  - Giulio Starace, Oliver Jaffe, Dane Sherburn, James Aung, Chan Jun Shern, Leon Maksin, Rachel Dias, Evan Mays, Benjamin Kinsella, Wyatt Thompson, Johannes Heidecke, Amelia Glaese, Tejal Patwardhan
+  - https://github.com/openai/preparedness
 
 ### Idea Generation
 - [Apr 2024] [ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models](https://arxiv.org/pdf/2404.07738)
