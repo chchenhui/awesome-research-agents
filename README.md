@@ -1,4 +1,4 @@
-# Awesome-Research-Agents
+# Awesome-Research-Agents🌟
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PR Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/chchenhui/awesome-research-agents/pulls)
 
