@@ -122,3 +122,4 @@ Open-Ended Scientific Discovery.
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands): a platform for software development agents powered by AI.
 - [VisionAgent](https://github.com/landing-ai/vision-agent): an agent framework which can generate code to solve your vision task.
 - [OpenDeepResearch](https://github.com/dzhng/deep-research): a simple implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic.
+- [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot): the first real AI developer.
