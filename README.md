@@ -81,6 +81,7 @@ format:
   - https://github.com/All-Hands-AI/OpenHands
 - [Jul 2024] [SciCode: A Research Coding Benchmark Curated by Scientists](https://arxiv.org/pdf/2407.13168)
   - Minyang Tian, Luyu Gao, Shizhuo Dylan Zhang, Xinan Chen, Cunwei Fan, Xuefei Guo, Roland Haas, Pan Ji, Kittithat Krongchon, Yao Li, Shengyan Liu, Di Luo, Yutao Ma, Hao Tong, Kha Trinh, Chenyu Tian, Zihan Wang, Bohao Wu, Yanyu Xiong, Shengzhu Yin, Minhui Zhu, Kilian Lieret, Yanxin Lu, Genglin Liu, Yufeng Du, Tianhua Tao, Ofir Press, Jamie Callan, Eliu Huerta, Hao Peng
+  - https://github.com/scicode-bench/SciCode
 - [Aug 2024] [CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges](https://arxiv.org/pdf/2401.07339)
   - Kechi Zhang, Jia Li, Ge Li, Xianjie Shi, Zhi Jin
 - [Sep 2024] [DSBench: How Far Are Data Science Agents to Become Data Science Experts?](https://arxiv.org/pdf/2409.07703)
