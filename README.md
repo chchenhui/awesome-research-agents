@@ -87,6 +87,9 @@ format:
 - [Sep 2024] [DSBench: How Far Are Data Science Agents to Become Data Science Experts?](https://arxiv.org/pdf/2409.07703)
   - Liqiang Jing, Zhehui Huang, Xiaoyang Wang, Wenlin Yao, Wenhao Yu, Kaixin Ma, Hongming Zhang, Xinya Du, Dong Yu
   - https://github.com/LiqiangJing/DSBench
+- [Sep 2024] [CORE-Bench: Fostering the Credibility of Published Research Through a Computational Reproducibility Agent Benchmark](https://arxiv.org/pdf/2409.11363)
+  - Zachary S. Siegel, Sayash Kapoor, Nitya Nadgir, Benedikt Stroebl, Arvind Narayanan
+  - https://github.com/siegelz/core-bench
 - [Oct 2024] [MLE-Bench: Evaluating Machine Learning Agents on Machine Learning Engineering](https://arxiv.org/pdf/2410.07095)
   - Jun Shern Chan, Neil Chowdhury, Oliver Jaffe, James Aung, Dane Sherburn, Evan Mays, Giulio Starace, Kevin Liu, Leon Maksin, Tejal Patwardhan, Lilian Weng, Aleksander Mądry
   - https://github.com/openai/mle-bench
