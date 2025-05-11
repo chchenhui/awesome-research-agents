@@ -44,6 +44,9 @@ format:
 - [Apr 2025] [The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search](https://arxiv.org/pdf/2504.08066)
   - Yutaro Yamada, Robert Tjarko Lange, Cong Lu, Shengran Hu, Chris Lu, Jakob Foerster, Jeff Clune, David Ha
   - https://github.com/SakanaAI/AI-Scientist-v2
+- [Apr 2025] [Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning](https://arxiv.org/pdf/2504.17192)
+  - Minju Seo, Jinheon Baek, Seongyun Lee, Sung Ju Hwang
+  - https://github.com/going-doer/Paper2Code
 
 ### Idea Generation
 - [Apr 2024] [ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models](https://arxiv.org/pdf/2404.07738)
