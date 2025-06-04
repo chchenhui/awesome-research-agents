@@ -36,6 +36,8 @@ format:
 - [Jan 2025] [Agent Laboratory: Using LLM Agents as Research Assistants](https://arxiv.org/pdf/2501.04227)
   - Samuel Schmidgall, Yusheng Su, Ze Wang, Ximeng Sun, Jialian Wu, Xiaodong Yu, Jiang Liu, Zicheng Liu, Emad Barsoum
   - https://github.com/SamuelSchmidgall/AgentLaboratory
+- [Feb 2025] [MLGym: A New Framework and Benchmark for Advancing AI Research Agents] (https://arxiv.org/pdf/2502.14499)
+  - Deepak Nathani, Lovish Madaan, Nicholas Roberts, Nikolay Bashlykov, Ajay Menon, Vincent Moens, Amar Budhiraja, Despoina Magka, Vladislav Vorotilov, Gaurav Chaurasia, Dieuwke Hupkes, Ricardo Silveira Cabral, Tatiana Shavrina, Jakob Foerster, Yoram Bachrach, William Yang Wang, Roberta Raileanu
 - [Mar 2025] [AgentRxiv: Towards Collaborative Autonomous Research](https://arxiv.org/pdf/2503.18102)
   - Samuel Schmidgall, Michael Moor
 - [Apr 2025] [PaperBench: Evaluating AI’s Ability to Replicate AI Research](https://arxiv.org/pdf/2504.01848)
