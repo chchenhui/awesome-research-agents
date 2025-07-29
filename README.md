@@ -108,6 +108,8 @@ format:
   - Ziru Chen, Shijie Chen, Yuting Ning, Qianheng Zhang, Boshi Wang, Botao Yu, Yifei Li, Zeyi Liao, Chen Wei, Zitong Lu, Vishal Dey, Mingyi Xue, Frazier N. Baker, Benjamin Burns, Daniel Adu-Ampratwum, Xuhui Huang, Xia Ning, Song Gao, Yu Su, Huan Sun
 - [Nov 2024] [RE-Bench: Evaluating frontier AI R&D capabilities of language model agents against human experts](https://arxiv.org/pdf/2411.15114)
   - Hjalmar Wijk, Tao Lin, Joel Becker, Sami Jawhar, Neev Parikh, Thomas Broadley, Lawrence Chan, Michael Chen, Josh Clymer, Jai Dhyani, Elena Ericheva, Katharyn Garcia, Brian Goodrich, Nikola Jurkovic, Megan Kinniment, Aron Lajko, Seraphina Nix, Lucas Sato, William Saunders, Maksym Taran, Ben West, Elizabeth Barnes
+- [Jun 2025] [ResearchCodeBench: Benchmarking LLMs on Implementing Novel Machine Learning Research Code](https://arxiv.org/pdf/2506.02314)
+  - Tianyu Hua, Harper Hua, Violet Xiang, Benjamin Klieger, Sang T. Truong, Weixin Liang, Fan-Yun Sun, Nick Haber
 
 ### Paper Writing
 - [Jun 2024] [Let’s Get to the Point: LLM-Supported Planning, Drafting, and Revising of Research-Paper Blog Posts](https://arxiv.org/pdf/2406.10370v1)
