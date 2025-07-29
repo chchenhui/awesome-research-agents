@@ -69,6 +69,10 @@ format:
   - Ruochen Li, Liqiang Jing, Chi Han, Jiawei Zhou, Xinya Du
 - [Dec 2024] [LLMs can realize combinatorial creativity: generating creative ideas via LLMs for scientific research](https://arxiv.org/pdf/2412.14141)
   - Tianyang Gu, Jingjin Wang, Zhihao Zhang, HaoHong Li
+- [Jun 2025] [Predicting Empirical AI Research Outcomes with Language Models](https://arxiv.org/pdf/2506.00794?)
+  - Jiaxin Wen, Chenglei Si, Yueh-han Chen, He He, Shi Feng
+- [Jun 2025] [The Ideation-Execution Gap: Execution Outcomes of LLM-Generated versus Human Research Ideas](https://arxiv.org/pdf/2506.20803)
+  - Chenglei Si, Tatsunori Hashimoto, Diyi Yang
 
 ### Literature Review
 - [Jun 2024] [AutoSurvey: Large Language Models Can Automatically Write Surveys](https://arxiv.org/pdf/2406.10252v1)
