@@ -134,6 +134,8 @@ format:
   - Yiqiao Jin, Qinlin Zhao, Yiyang Wang, Hao Chen, Kaijie Zhu, Yijia Xiao, Jindong Wang
 - [Dec 2024] [Are We There Yet? Revealing the Risks of Utilizing Large Language Models in Scholarly Peer Review](https://arxiv.org/pdf/2412.01708?)
   - Rui Ye, Xianghe Pang, Jingyi Chai, Jiaao Chen, Zhenfei Yin, Zhen Xiang, Xiaowen Dong, Jing Shao, Siheng Chen
+- [Dec 2024] [OpenReviewer: A Specialized Large Language Model for Generating Critical Scientific Paper Reviews](https://arxiv.org/pdf/2412.11948)
+  - Maximilian Idahl, Zahra Ahmadi
 - [Apr 2025] [Can LLM feedback enhance review quality? A randomized study of 20K reviews at ICLR 2025](https://arxiv.org/pdf/2504.09737)
   - Nitya Thakkar, Mert Yuksekgonul, Jake Silberg, Animesh Garg, Nanyun Peng, Fei Sha, Rose Yu, Carl Vondrick, James Zou
 
