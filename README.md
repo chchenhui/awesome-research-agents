@@ -140,6 +140,8 @@ format:
   - Maximilian Idahl, Zahra Ahmadi
 - [Apr 2025] [Can LLM feedback enhance review quality? A randomized study of 20K reviews at ICLR 2025](https://arxiv.org/pdf/2504.09737)
   - Nitya Thakkar, Mert Yuksekgonul, Jake Silberg, Animesh Garg, Nanyun Peng, Fei Sha, Rose Yu, Carl Vondrick, James Zou
+- [Jun 2025] [From Replication to Redesign: Exploring Pairwise Comparisons for LLM-Based Peer Review](https://arxiv.org/pdf/2506.11343)
+  - Yaohui Zhang, Haijing Zhang, Wenlong Ji, Tianyu Hua, Nick Haber, Hancheng Cao, Weixin Liang
 
 ## 🔧 Projects
 - [gpt-researcher](https://github.com/assafelovic/gpt-researcher): an autonomous agent designed for comprehensive web and local research on any given task.
