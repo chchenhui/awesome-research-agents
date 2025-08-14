@@ -124,6 +124,8 @@ format:
   - Marissa Radensky, Daniel S. Weld, Joseph Chee Chang, Pao Siangliulue, Jonathan Bragg
 - [Jan 2025] [OmniThink: Expanding Knowledge Boundaries in Machine Writing through Thinking](https://arxiv.org/pdf/2501.09751)
   - Zekun Xi, Wenbiao Yin, Jizhan Fang, Jialong Wu, Runnan Fang, Ningyu Zhang, Jiang Yong, Pengjun Xie, Fei Huang, Huajun Chen
+- [Mar 2025] [Writing as a testbed for open ended agents](https://arxiv.org/pdf/2503.19711)
+  - Sian Gooding, Lucia Lopez-Rivilla, Edward Grefenstette
 - [Apr 2025] [ScholarCopilot: Training Large Language Models for Academic Writing with Accurate Citations](https://arxiv.org/pdf/2504.00824)
   - Yubo Wang, Xueguang Ma, Ping Nie, Huaye Zeng, Zhiheng Lyu, Yuxuan Zhang, Benjamin Schneider, Yi Lu, Xiang Yue, Wenhu Chen
 
