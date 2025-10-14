@@ -49,6 +49,9 @@ format:
 - [Apr 2025] [Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning](https://arxiv.org/pdf/2504.17192)
   - Minju Seo, Jinheon Baek, Seongyun Lee, Sung Ju Hwang
   - https://github.com/going-doer/Paper2Code
+- [Apr 2025] [LLM-SRBench: A New Benchmark for Scientific Equation Discovery with Large Language Models](https://arxiv.org/pdf/2504.10415)
+  - Parshin Shojaee, Ngoc-Hieu Nguyen, Kazem Meidani, Amir Barati Farimani, Khoa D Doan, Chandan K Reddy
+  - https://github.com/deep-symbolic-mathematics/llm-srbench
 - [Jul 2025] [AI Research Agents for Machine Learning: Search, Exploration, and Generalization in MLE-bench](https://arxiv.org/pdf/2507.02554)
   - Edan Toledo, Karen Hambardzumyan, Martin Josifoski, Rishi Hazra, Nicolas Baldwin, Alexis Audran-Reiss, Michael Kuchnik, Despoina Magka, Minqi Jiang, Alisia Maria Lupidi, Andrei Lupu, Roberta Raileanu, Kelvin Niu, Tatiana Shavrina, Jean-Christophe Gagnon-Audet, Michael Shvartsman, Shagun Sodhani, Alexander H. Miller, Abhishek Charnalia, Derek Dunfield, Carole-Jean Wu, Pontus Stenetorp, Nicola Cancedda, Jakob Nicolaus Foerster, Yoram Bachrach
   - https://github.com/facebookresearch/aira-dojo
