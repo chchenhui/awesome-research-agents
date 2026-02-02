@@ -133,6 +133,8 @@ format:
   - Sian Gooding, Lucia Lopez-Rivilla, Edward Grefenstette
 - [Apr 2025] [ScholarCopilot: Training Large Language Models for Academic Writing with Accurate Citations](https://arxiv.org/pdf/2504.00824)
   - Yubo Wang, Xueguang Ma, Ping Nie, Huaye Zeng, Zhiheng Lyu, Yuxuan Zhang, Benjamin Schneider, Yi Lu, Xiang Yue, Wenhu Chen
+- [Jan 2026] [PaperBanana: Automating Academic Illustration for AI Scientists](https://arxiv.org/pdf/2601.23265)
+  - Dawei Zhu, Rui Meng, Yale Song, Xiyu Wei, Sujian Li, Tomas Pfister, Jinsung Yoon
 
 ### Research Assessment
 - [May 2024] [Is LLM a Reliable Reviewer? A Comprehensive Evaluation of LLM on Automatic Paper Reviewing Tasks](https://aclanthology.org/2024.lrec-main.816.pdf)
