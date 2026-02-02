@@ -124,7 +124,7 @@ format:
 - [Jun 2025] [ResearchCodeBench: Benchmarking LLMs on Implementing Novel Machine Learning Research Code](https://arxiv.org/pdf/2506.02314)
   - Tianyu Hua, Harper Hua, Violet Xiang, Benjamin Klieger, Sang T. Truong, Weixin Liang, Fan-Yun Sun, Nick Haber
 
-### Paper Writing
+### Paper Writing & Presentation
 - [Jun 2024] [Let’s Get to the Point: LLM-Supported Planning, Drafting, and Revising of Research-Paper Blog Posts](https://arxiv.org/pdf/2406.10370v1)
   - Marissa Radensky, Daniel S. Weld, Joseph Chee Chang, Pao Siangliulue, Jonathan Bragg
 - [Jan 2025] [OmniThink: Expanding Knowledge Boundaries in Machine Writing through Thinking](https://arxiv.org/pdf/2501.09751)
@@ -133,6 +133,8 @@ format:
   - Sian Gooding, Lucia Lopez-Rivilla, Edward Grefenstette
 - [Apr 2025] [ScholarCopilot: Training Large Language Models for Academic Writing with Accurate Citations](https://arxiv.org/pdf/2504.00824)
   - Yubo Wang, Xueguang Ma, Ping Nie, Huaye Zeng, Zhiheng Lyu, Yuxuan Zhang, Benjamin Schneider, Yi Lu, Xiang Yue, Wenhu Chen
+- [Oct 2025] [Presenting a Paper is an Art: Self-Improvement Aesthetic Agents for Academic Presentations](https://arxiv.org/pdf/2510.05571)
+  - Chengzhi Liu, Yuzhe Yang, Kaiwen Zhou, Zhen Zhang, Yue Fan, Yannan Xie, Peng Qi, Xin Eric Wang
 - [Jan 2026] [PaperBanana: Automating Academic Illustration for AI Scientists](https://arxiv.org/pdf/2601.23265)
   - Dawei Zhu, Rui Meng, Yale Song, Xiyu Wei, Sujian Li, Tomas Pfister, Jinsung Yoon
 
