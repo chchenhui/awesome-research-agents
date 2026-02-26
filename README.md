@@ -59,6 +59,8 @@ format:
   - Dhruv Agarwal, Bodhisattwa Prasad Majumder, Reece Adamson, Megha Chakravorty, Satvika Reddy Gavireddy, Aditya Parashar, Harshit Surana, Bhavana Dalvi Mishra, Andrew McCallum, Ashish Sabharwal, Peter Clark
 - [July 2025] [Can Language Models Discover Scaling Laws?](https://arxiv.org/pdf/2507.21184)
   - Haowei Lin, Haotian Ye, Wenzheng Feng, Quzhe Huang, Yujun Li, Hubert Lim, Zhengrui Li, Xiangyu Wang, Jianzhu Ma, Yitao Liang, James Zou
+- [Dec 2025] [Training AI Co-Scientists Using Rubric Rewards](https://arxiv.org/pdf/2512.23707)
+  - Shashwat Goel, Rishi Hazra, Dulhan Jayalath, Timon Willi, Parag Jain, William F. Shen, Ilias Leontiadis, Francesco Barbieri, Yoram Bachrach, Jonas Geiping, Chenxi Whitehouse
 
 ### Idea Generation
 - [Apr 2024] [ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models](https://arxiv.org/pdf/2404.07738)
