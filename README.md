@@ -61,6 +61,8 @@ format:
   - Haowei Lin, Haotian Ye, Wenzheng Feng, Quzhe Huang, Yujun Li, Hubert Lim, Zhengrui Li, Xiangyu Wang, Jianzhu Ma, Yitao Liang, James Zou
 - [Dec 2025] [Training AI Co-Scientists Using Rubric Rewards](https://arxiv.org/pdf/2512.23707)
   - Shashwat Goel, Rishi Hazra, Dulhan Jayalath, Timon Willi, Parag Jain, William F. Shen, Ilias Leontiadis, Francesco Barbieri, Yoram Bachrach, Jonas Geiping, Chenxi Whitehouse
+- [Feb 2026] [PreScience: A Benchmark for Forecasting Scientific Contributions](https://arxiv.org/pdf/2602.20459)
+  - Anirudh Ajith, Amanpreet Singh, Jay DeYoung, Nadav Kunievsky, Austin C. Kozlowski, Oyvind Tafjord, James Evans, Daniel S. Weld, Tom Hope, Doug Downey
 
 ### Idea Generation
 - [Apr 2024] [ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models](https://arxiv.org/pdf/2404.07738)
