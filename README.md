@@ -172,3 +172,4 @@ Open-Ended Scientific Discovery.
 - [OpenDeepResearch](https://github.com/dzhng/deep-research): a simple implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic.
 - [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot): the first real AI developer.
 - [AI-Research-Skills](https://github.com/Orchestra-Research/AI-Research-SKILLs): Skills for autoresearch.
+- [CAJAL](https://github.com/Agnuxo1/CAJAL): Local-first scientific paper generator powered by fine-tuned LLMs (4B-9B). Produces structured IMRaD drafts with simulated peer review and optional online citation lookup via arXiv/CrossRef.
