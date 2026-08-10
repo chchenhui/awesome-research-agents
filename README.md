@@ -172,6 +172,7 @@ Open-Ended Scientific Discovery.
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands): a platform for software development agents powered by AI.
 - [VisionAgent](https://github.com/landing-ai/vision-agent): an agent framework which can generate code to solve your vision task.
 - [OpenDeepResearch](https://github.com/dzhng/deep-research): a simple implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic.
+- [Dr. Claw](https://github.com/OpenLAIR/dr-claw): a local-first, open-source AI research workspace spanning literature review, experiments, writing, and research artifacts.
 - [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot): the first real AI developer.
 - [AI-Research-Skills](https://github.com/Orchestra-Research/AI-Research-SKILLs): Skills for autoresearch.
 - [CAJAL](https://github.com/Agnuxo1/CAJAL): Local-first scientific paper generator powered by fine-tuned LLMs (4B-9B). Produces structured IMRaD drafts with simulated peer review and optional online citation lookup via arXiv/CrossRef.
