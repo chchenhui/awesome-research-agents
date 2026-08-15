@@ -179,4 +179,5 @@ Open-Ended Scientific Discovery.
 
 ## Benchmarks
 
+- [Dr. Bench](https://github.com/EVIGBYEN/DrBench) — 214 expert-curated tasks for evaluating deep-research agents' long-form reports across semantic quality, topical focus, and retrieval trustworthiness. [Paper](https://arxiv.org/abs/2510.02190)
 - [REFUTE](https://huggingface.co/datasets/BGPT-OFFICIAL/refute) — Apache-2.0 benchmark for scientific critique & epistemic calibration on recent (2025–2026) science summaries; separates critique skill from calibrated truthfulness (falsification, limitations, overclaims, missing-evidence refusal, calibration, planted-flaw detection). [Leaderboard](https://huggingface.co/spaces/BGPT-OFFICIAL/refute-leaderboard) · [Report](https://huggingface.co/datasets/BGPT-OFFICIAL/refute/blob/main/TECHNICAL_REPORT.md) · [Integrators](https://huggingface.co/datasets/BGPT-OFFICIAL/refute/blob/main/INTEGRATORS.md)
