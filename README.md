@@ -65,6 +65,15 @@ format:
   - Anirudh Ajith, Amanpreet Singh, Jay DeYoung, Nadav Kunievsky, Austin C. Kozlowski, Oyvind Tafjord, James Evans, Daniel S. Weld, Tom Hope, Doug Downey
 - [May 2026] [RMA: an Agentic System for Research-Level Mathematical Problems](https://arxiv.org/pdf/2605.22875)
   - Zelin Zhao, Bo Yuan, Jaemoo Choi, Yongxin Chen
+- [Jun 2026] [Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy](https://arxiv.org/pdf/2606.24177)
+  - Youran Sun, Xingyu Ren, Chugang Yi, Jiaxuan Guo, Kejia Zhang, Jianda Du, Haizhao Yang
+  - https://github.com/AutoResearch-Factory/Agon
+- [Aug 2026] [AgonAlpha: Autonomous Alpha Discovery via Prompt Economy and Scalable Agentic Search](https://arxiv.org/pdf/2608.11250)
+  - Weicheng Ye, Youran Sun, Xingyu Ren, Shunyao Yu, Chugang Yi, Haizhao Yang
+  - https://github.com/AutoResearch-Factory/AgonAlpha
+- [Aug 2026] [AutoSR: Automatic Symbolic Regression by Searching Research States](https://arxiv.org/pdf/2608.16876)
+  - Kejia Zhang, Youran Sun, Xingyu Ren, Chugang Yi, Haizhao Yang
+  - https://github.com/AutoResearch-Factory/AutoSR
 
 ### Idea Generation
 - [Apr 2024] [ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models](https://arxiv.org/pdf/2404.07738)
@@ -183,3 +192,4 @@ Open-Ended Scientific Discovery.
 - [Dr. Bench](https://github.com/EVIGBYEN/DrBench) — 214 expert-curated tasks for evaluating deep-research agents' long-form reports across semantic quality, topical focus, and retrieval trustworthiness. [Paper](https://arxiv.org/abs/2510.02190)
 - [REFUTE](https://huggingface.co/datasets/BGPT-OFFICIAL/refute) — Apache-2.0 benchmark for scientific critique & epistemic calibration on recent (2025–2026) science summaries; separates critique skill from calibrated truthfulness (falsification, limitations, overclaims, missing-evidence refusal, calibration, planted-flaw detection). [Leaderboard](https://huggingface.co/spaces/BGPT-OFFICIAL/refute-leaderboard) · [Report](https://huggingface.co/datasets/BGPT-OFFICIAL/refute/blob/main/TECHNICAL_REPORT.md) · [Integrators](https://huggingface.co/datasets/BGPT-OFFICIAL/refute/blob/main/INTEGRATORS.md)
 - [YYLO Benchmark](https://github.com/yylo-dev/yylo-benchmark) — benchmark harness for coding-agent task evaluation: task prompts and workflow runs execute in private fresh-repository attempt workspaces, with retained evidence, evaluator provenance, and blinded per-step judging.
+- [SciΠvot](https://github.com/AutoResearch-Factory/SciPIvot) — 248 PI-judgment questions from senior researchers' corrections of LLM agents in 26 real projects across 6 fields; 4 of 5 frontier models score below random. [Paper](https://arxiv.org/abs/2610.21082)
