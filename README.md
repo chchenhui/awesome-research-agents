@@ -168,6 +168,8 @@ format:
   - Nitya Thakkar, Mert Yuksekgonul, Jake Silberg, Animesh Garg, Nanyun Peng, Fei Sha, Rose Yu, Carl Vondrick, James Zou
 - [Jun 2025] [From Replication to Redesign: Exploring Pairwise Comparisons for LLM-Based Peer Review](https://arxiv.org/pdf/2506.11343)
   - Yaohui Zhang, Haijing Zhang, Wenlong Ji, Tianyu Hua, Nick Haber, Hancheng Cao, Weixin Liang
+- [Jun 2026] [What's Missing in Autonomous Research? A Systematization of Systems, Benchmarks, and Verification](https://haizhaoyang.github.io/research/autoresearch-survey.html)
+  - Xingyu Ren, Youran Sun, Chugang Yi, Kejia Zhang, Jiaxuan Guo, Jianda Du, Haizhao Yang
 
 ## 🔧 Projects
 - [gpt-researcher](https://github.com/assafelovic/gpt-researcher): an autonomous agent designed for comprehensive web and local research on any given task.
