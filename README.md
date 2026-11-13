@@ -185,6 +185,7 @@ Open-Ended Scientific Discovery.
 - [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot): the first real AI developer.
 - [AI-Research-Skills](https://github.com/Orchestra-Research/AI-Research-SKILLs): Skills for autoresearch.
 - [CAJAL](https://github.com/Agnuxo1/CAJAL): Local-first scientific paper generator powered by fine-tuned LLMs (4B-9B). Produces structured IMRaD drafts with simulated peer review and optional online citation lookup via arXiv/CrossRef.
+- [DisconfirmAI](https://disconfirmai.com/en): a hosted research workspace for investors that collects counter-evidence before a thesis is accepted. It covers daily reading of public sources, filing and data deep dives, and condition-based alerts.
 
 
 ## Benchmarks
